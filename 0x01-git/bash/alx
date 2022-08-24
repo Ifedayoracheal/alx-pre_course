@@ -1,2 +1,5 @@
 #!/bin/bash
+echo "ALX" >> alx
+echo echo ALX >> alx
+echo echo ALX
 echo ALX
